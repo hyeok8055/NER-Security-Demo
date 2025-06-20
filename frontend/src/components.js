@@ -1,5 +1,5 @@
 import React from 'react';
-import { Send, Settings, User, Bot, Shield, AlertTriangle, Info, Eye, EyeOff, CheckCircle, XCircle } from 'lucide-react';
+import { Send, Settings, User, Bot, Shield, Eye, CheckCircle, XCircle } from 'lucide-react';
 
 // ChatGPT Interface Component
 export const ChatInterface = ({ 

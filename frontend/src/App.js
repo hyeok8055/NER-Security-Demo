@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { Send, Settings, User, Bot, Shield, AlertTriangle, Info, Eye, EyeOff } from 'lucide-react';
 import './App.css';
 
 // Components
